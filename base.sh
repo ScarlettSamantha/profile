@@ -43,3 +43,7 @@ fi
 if [ -f ~/.profile/alias.sh ]; then
     . ~/.profile/alias.sh
 fi
+
+if [ -f ~/.profile/gpg.sh ]; then
+    . ~/.profile/gpg.sh
+fi
